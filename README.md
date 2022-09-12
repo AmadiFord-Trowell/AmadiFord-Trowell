@@ -9,7 +9,7 @@
 <h2>📺 About me </h2>
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning: Python & C#
+- 🌱 I’m currently learning: Python & Docker
 - 🤔 I’m looking for help with: learning and improving my coding
 - 💬 Ask me about: What I am doing to improve my programming
 - 📫 How to reach me: Amadifortrowell@gmail.com
